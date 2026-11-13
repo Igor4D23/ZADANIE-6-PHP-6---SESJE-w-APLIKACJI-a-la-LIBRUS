@@ -1,0 +1,55 @@
+body
+{
+    background-color:#231917;
+    color:white;
+    font-family:Arial;
+    padding:40px;
+}
+
+select
+{
+    padding:3px;
+}
+
+h2
+{
+    margin-top:25px;
+}
+
+table
+{
+    border-collapse:collapse;
+    margin-top:15px;
+}
+
+th
+{
+    border:1px solid #bdbdbd;
+    padding:8px 12px;
+}
+
+td
+{
+    border:1px solid #bdbdbd;
+    padding:8px 12px;
+}
+
+hr
+{
+    margin-top:20px;
+    border:1px solid #bdbdbd;
+}
+
+input[type=text],
+input[type=number]
+{
+    width:170px;
+    padding:5px;
+    margin-bottom:2px;
+}
+
+input[type=submit]
+{
+    margin-top:15px;
+    padding:5px 12px;
+}
